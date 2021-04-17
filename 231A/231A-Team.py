@@ -1,6 +1,8 @@
 """
 PROBLEM_CODE: 231A - Team
-This program calculate how many problems the team is going to solve
+Problem_Defination:
+    This program calculate how many problems the team is going to solve
+    based on that two of them @least must know how to solve it
 Author: Ziad Mansour Mohamed
 Date: April 10, 2021
 """
